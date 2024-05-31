@@ -1,0 +1,78 @@
+INFO:root:[28 May 2024] 17:22:45: Initializing...
+
+INFO:root:[28 May 2024] 17:22:45: Starting menu loop, then formatting
+INFO:root:[28 May 2024] 17:22:45: Clear screen and cycle menu objects/lines
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Heading [     Вас вітає митна служба України     ]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Repeater [*]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Selection [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Selection [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:45: Finishing up display. Selection format set to 'A'
+INFO:root:[28 May 2024] 17:22:45: Prompting user for selection
+INFO:root:[28 May 2024] 17:22:56: Initializing...
+
+INFO:root:[28 May 2024] 17:22:56: Starting menu loop, then formatting
+INFO:root:[28 May 2024] 17:22:56: Clear screen and cycle menu objects/lines
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Heading [     Вас вітає митна служба України     ]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Repeater [*]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Selection [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Selection [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:22:56: Finishing up display. Selection format set to 'A'
+INFO:root:[28 May 2024] 17:22:56: Prompting user for selection
+INFO:root:[28 May 2024] 17:23:17: Retrieved input: 1
+INFO:root:[28 May 2024] 17:23:17: Attempting execution...
+
+INFO:root:[28 May 2024] 17:23:17: input is an invalid entry (check your selection indexes). Returning... 
+
+INFO:root:[28 May 2024] 17:23:17: Clear screen and cycle menu objects/lines
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Heading [     Вас вітає митна служба України     ]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Repeater [*]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Selection [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Selection [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Constructor: Adding Line [1]
+INFO:root:[28 May 2024] 17:23:17: Finishing up display. Selection format set to 'A'
+INFO:root:[28 May 2024] 17:23:17: Prompting user for selection
+INFO:root:[28 May 2024] 17:23:21: Retrieved input: x
+INFO:root:[28 May 2024] 17:23:21: Input quits program [x][END]
+
